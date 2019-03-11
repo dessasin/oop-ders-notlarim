@@ -29,3 +29,12 @@ Boxing yöntemi ile kullanılan değişkendir oluşturulan değişkenin türü b
 ### Tür Dönüşümleri
 * Tür dönüşümlerinde değer taşmaları sebebi ile değişken değer hataları oluşabilir
 * Herhangi bir veri tipinde char veri tipine dönüşüm mümkün değildir
+
+### Aritmetik işlemler
+
+* Matematiksel işlemlerde bölme yaparken kesirli ifade alabilmek için double değişkenleri double değişkenler ile bölmek gerekmektedir.
+
+
+* **++degisken** şeklinde kullanılan artırma ve azaltma işlemlerinde ileyiş şu şekildedir;
+	**++degisken** yapıldığında önce değişken değeri artırılır sonra ekrana yazılır
+	**degisken++** önce ekrana yazdırılır sonrasında değişken artırılır

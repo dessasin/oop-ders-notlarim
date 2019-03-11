@@ -7,8 +7,8 @@ namespace ders3
         public static void Main(string[] args)
             // /* */ ARASINDA KALAN KISIMLARI /* */ İFADELERİNİ SİLEREK ÇALIŞTIRABİLİRSİNİZ
         {
-            /* 
 
+            /*
             int sayi = 0; // stack bölgesinde yer alan değişkendir
             const int sayi2 = 0;// sabit ram bölgesinde yer alır ayrıca sabit değişken tanımlama biçimidir 
 
@@ -16,8 +16,8 @@ namespace ders3
                 int sayi3 = 12; // ayrılmış blok
             }
 
-           
-            */
+           */
+
 
 
             /*
@@ -38,7 +38,7 @@ namespace ders3
             {
                 byte b = (byte)a;
                 Console.WriteLine(b);
-            }
+            } 
             */
 
             /*
@@ -53,9 +53,34 @@ namespace ders3
 
             // Tür Dönüşümleri
 
-
+            /*
             int sayi1 = 12;
             sayi1 = Convert.ToByte(sayi1);
+            */
+
+
+            // Aritmetik operatörler
+
+            int sayi = 3;
+            double sayi2 = 215;
+            double bol = 3;
+            double bolum;
+            float deg = 25;
+
+            sayi = 123 + 123; // toplama
+            Console.WriteLine(sayi);
+
+            sayi = 12312 - 123; // çıkarma
+            Console.WriteLine(sayi);
+
+            sayi = 123 * 123; // çarpma
+            Console.WriteLine(sayi);
+
+            bolum = sayi2 / bol; // bölme
+            Console.WriteLine(bolum);
+
+            deg=deg/2; // bölme
+            Console.WriteLine(deg);
 
 
 
