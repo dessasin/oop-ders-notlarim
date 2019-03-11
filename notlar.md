@@ -30,7 +30,7 @@ Boxing yöntemi ile kullanılan değişkendir oluşturulan değişkenin türü b
 
 * **Karşılaştırma** operatörlerinde ilk işleme giren değişken soldaki değişkendir < > == != durmlarında eğer soldaki sayı ilk şartı karşılıyorsa işlem soncu ona göre belirlenir
 
-* **Karşılaştırma operatörlerinde tersi durumu sorgulamak için operatör önüne __" ! "__ işareti konulması yeterlidir
+* **Karşılaştırma** operatörlerinde tersi durumu sorgulamak için operatör önüne _" ! "_ işareti konulması yeterlidir
 
 ### Tür Dönüşümleri
 * Tür dönüşümlerinde değer taşmaları sebebi ile değişken değer hataları oluşabilir
@@ -40,6 +40,7 @@ Boxing yöntemi ile kullanılan değişkendir oluşturulan değişkenin türü b
 
 * Matematiksel işlemlerde bölme yaparken kesirli ifade alabilmek için double değişkenleri double değişkenler ile bölmek gerekmektedir.
 
+* Aritmetik işlemlerde işlem önceliği bulunmaktadır
 
 * **++degisken** şeklinde kullanılan artırma ve azaltma işlemlerinde ileyiş şu şekildedir;
 	**++degisken** yapıldığında önce değişken değeri artırılır sonra ekrana yazılır
