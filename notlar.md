@@ -15,7 +15,7 @@
 * Sabitlere değer atanırken sadece farklı sabitler kullanılabilir
 
 ### Genel Uyarılar
-* Kod bloklarını { } ifadeleri ile istediğimiz gibi ayrıştırabiliriz.Ancak dikkat edilmesi geren bir nokta bulunmaktadır;
+* Kod bloklarını { } ifadeleri ile istediğimiz gibi ayrıştırabiliriz.Ancak dikkat edilmesi geren bir nokta bulunmaktadır; @cr
  "Değişkenler tanımlı oldukları kod blokları içerisinde geçerli olur".
 
 * **Checked** blokları tür dönüşümlerinde yapılan taşma durumlarını kontrol etmek için kulanılır eğer taşma durumu varsa program hata verip çalışmaz ancak taşma olmadığı durumlarda program çalışacaktır varsayılan olarak **Unchecked**'dir.
