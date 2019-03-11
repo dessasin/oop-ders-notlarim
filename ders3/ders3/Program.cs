@@ -61,6 +61,8 @@ namespace ders3
 
             // Aritmetik operatörler
 
+            /*
+             *            
             int sayi = 3;
             double sayi2 = 215;
             double bol = 3;
@@ -76,12 +78,58 @@ namespace ders3
             sayi = 123 * 123; // çarpma
             Console.WriteLine(sayi);
 
+            sayi = 123 % 3; // Mod Alma
+            Console.WriteLine(sayi);
+
             bolum = sayi2 / bol; // bölme
             Console.WriteLine(bolum);
 
-            deg=deg/2; // bölme
+            deg= deg/2; // bölme
             Console.WriteLine(deg);
+                       
+            */
 
+            // Bileşik atama operatörleri
+
+            /*
+            int sayi = 5;
+          
+            sayi += 10;
+            Console.WriteLine(sayi);
+
+            sayi -= 10;
+            Console.WriteLine(sayi);
+
+            sayi *= 10;
+            Console.WriteLine(sayi);
+
+
+            sayi /= 10;
+            Console.WriteLine(sayi);
+
+
+            sayi %= 10;
+            Console.WriteLine(sayi);
+            */
+
+            // Karşılaştırma Operatörleri
+
+            bool a;
+            int b = 12;
+            int c = 12;
+            a = b == c; // == eşitse operatörü 
+            Console.WriteLine(a);
+
+
+            a = b != c; // != eşit değilse operatörü 
+            Console.WriteLine(a);
+
+
+            a = b < c; // < küçükse  operatörü 
+            Console.WriteLine(a);
+
+            a = b > c; // > büyükse operatörü 
+            Console.WriteLine(a);
 
 
             Console.Read();

@@ -22,9 +22,15 @@
 
 * Checked ve Unchecked iç içe kullanılabilir
 
-
 **Objeler** 
 Boxing yöntemi ile kullanılan değişkendir oluşturulan değişkenin türü belirtilmez ancak içeriğine verilen değer değişkenin değer tipini belirler 
+
+
+* **Bileşik Atama Operatörleri** değişkeni kendisi ile işleme sokmak istediğimizde kullandığımız ifadelerdir
+
+* **Karşılaştırma** operatörlerinde ilk işleme giren değişken soldaki değişkendir < > == != durmlarında eğer soldaki sayı ilk şartı karşılıyorsa işlem soncu ona göre belirlenir
+
+* **Karşılaştırma operatörlerinde tersi durumu sorgulamak için operatör önüne __" ! "__ işareti konulması yeterlidir
 
 ### Tür Dönüşümleri
 * Tür dönüşümlerinde değer taşmaları sebebi ile değişken değer hataları oluşabilir
@@ -38,3 +44,5 @@ Boxing yöntemi ile kullanılan değişkendir oluşturulan değişkenin türü b
 * **++degisken** şeklinde kullanılan artırma ve azaltma işlemlerinde ileyiş şu şekildedir;
 	**++degisken** yapıldığında önce değişken değeri artırılır sonra ekrana yazılır
 	**degisken++** önce ekrana yazdırılır sonrasında değişken artırılır
+
+
