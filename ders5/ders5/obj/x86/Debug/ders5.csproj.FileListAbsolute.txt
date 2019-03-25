@@ -1,0 +1,6 @@
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders5/ders5/obj/x86/Debug/ders5.csprojAssemblyReference.cache
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders5/ders5/obj/x86/Debug/ders5.csproj.CoreCompileInputs.cache
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders5/ders5/bin/Debug/ders5.exe
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders5/ders5/bin/Debug/ders5.pdb
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders5/ders5/obj/x86/Debug/ders5.exe
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders5/ders5/obj/x86/Debug/ders5.pdb

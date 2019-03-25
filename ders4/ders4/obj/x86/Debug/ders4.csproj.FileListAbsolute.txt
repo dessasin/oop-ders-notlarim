@@ -1,0 +1,6 @@
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders4/ders4/bin/Debug/ders4.exe
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders4/ders4/bin/Debug/ders4.pdb
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders4/ders4/obj/x86/Debug/ders4.csprojAssemblyReference.cache
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders4/ders4/obj/x86/Debug/ders4.csproj.CoreCompileInputs.cache
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders4/ders4/obj/x86/Debug/ders4.exe
+/media/dessasin/Yedek/Work/oop-ders-notlarim/ders4/ders4/obj/x86/Debug/ders4.pdb

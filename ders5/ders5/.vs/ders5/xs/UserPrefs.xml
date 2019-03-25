@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B1C77874-CAE7-4D72-B9A6-08A2695F949D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ders5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="../../ders4/ders4/Program.cs" Line="77" Column="1" />
+      <File FileName="Program.cs" Line="142" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -15,8 +15,10 @@
 * Sabitlere değer atanırken sadece farklı sabitler kullanılabilir
 
 ### Genel Uyarılar
-* Kod bloklarını { } ifadeleri ile istediğimiz gibi ayrıştırabiliriz.Ancak dikkat edilmesi geren bir nokta bulunmaktadır;<br>
-"Değişkenler tanımlı oldukları kod blokları içerisinde geçerli olur".
+* Kod bloklarını { } ifadeleri ile istediğimiz gibi ayrıştırabiliriz.Ancak dikkat edilmesi geren bir nokta bulunmaktadır;
+<br>
+	* _"Değişkenler tanımlı oldukları kod blokları içerisinde geçerli olur"._
+<br>
 
 * **Checked** blokları tür dönüşümlerinde yapılan taşma durumlarını kontrol etmek için kulanılır eğer taşma durumu varsa program hata verip çalışmaz ancak taşma olmadığı durumlarda program çalışacaktır varsayılan olarak **Unchecked**'dir.
 
@@ -31,6 +33,10 @@ Boxing yöntemi ile kullanılan değişkendir oluşturulan değişkenin türü b
 * **Karşılaştırma** operatörlerinde ilk işleme giren değişken soldaki değişkendir < > == != durmlarında eğer soldaki sayı ilk şartı karşılıyorsa işlem soncu ona göre belirlenir
 
 * **Karşılaştırma** operatörlerinde tersi durumu sorgulamak için operatör önüne _" ! "_ işareti konulması yeterlidir
+* **Mantıksal Operatörler** "&&">>"Ve Bağlacı" , " || " >> "Veya Bağlacı"
+
+* **Bitsel Operatörler** bit düzeyinde sorgu yapan operatörlerdir & | 
+
 
 ### Tür Dönüşümleri
 * Tür dönüşümlerinde değer taşmaları sebebi ile değişken değer hataları oluşabilir
